@@ -1,8 +1,4 @@
-## LETREC AB
+## LETREC
 
-![logo](https://avatars.githubusercontent.com/u/85708224?s=300)
-
-We develop software.
-
-I ❤️  UNIX
-
+LETREC AB is a Swedish software company.
+We offer software development services.
